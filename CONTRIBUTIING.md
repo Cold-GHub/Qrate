@@ -1,2 +1,3 @@
-#QRATE
-#Guidelines for Hacktoberfest '22
+# Contribution Guidelines
+
+Hello :wave: and welcome to **_Qrate_**
